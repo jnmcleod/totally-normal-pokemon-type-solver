@@ -29,6 +29,7 @@
 		88EB064728D6622500BADD8D /* sourcecode */ = {isa = PBXFileReference; lastKnownFileType = text; path = sourcecode; sourceTree = "<group>"; };
 		88EB064828D6627000BADD8D /* readme */ = {isa = PBXFileReference; lastKnownFileType = text; path = readme; sourceTree = SOURCE_ROOT; };
 		88EB064928D6659400BADD8D /* Makefile */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
+		88EB064B28D6683800BADD8D /* originals */ = {isa = PBXFileReference; lastKnownFileType = text; path = originals; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +64,7 @@
 			children = (
 				88EB064028D661AF00BADD8D /* main.cpp */,
 				88EB064828D6627000BADD8D /* readme */,
+				88EB064B28D6683800BADD8D /* originals */,
 				88EB064728D6622500BADD8D /* sourcecode */,
 				88EB064928D6659400BADD8D /* Makefile */,
 			);
