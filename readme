@@ -1,3 +1,5 @@
+This program should be run using the provided Makefile, due to its atypical nature.  Also "make clean" will remove the error logs generated
+
 This is a program that takes in two pokemon types and gives their type advantage
 
 It was written as an assignment to create the most deliberately terrible program that still worked.  Despite violating every rule of good coding, it is able to correctly determine type advantages for all possible inputs, including determining if invalid input was provided
