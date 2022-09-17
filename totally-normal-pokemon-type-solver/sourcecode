@@ -1,0 +1,1960 @@
+//cppcode.cpp
+#include <cstdlib>
+#include <iostream>
+#include <sstream>
+#include <fstream>
+#include <map>
+#include "unistd.h"
+
+//pythonfile1
+import glob
+import os
+
+//pythonfile2
+import glob
+import os
+
+//pythonfile3
+import glob
+import os
+
+//pythonfile4
+import glob
+import os
+
+//pythonfile5
+import glob
+import os
+
+//pythonfile6
+import glob
+import os
+
+//pythonfile7
+import glob
+import os
+
+//pythonfile8
+import glob
+import os
+
+//pythonfile9
+import glob
+import os
+
+//pythonfile10
+import glob
+import os
+
+//pythonfile11
+import glob
+import os
+
+//pythonfile12
+import glob
+import os
+
+//pythonfile13
+import glob
+import os
+
+//pythonfile14
+import glob
+import os
+
+//pythonfile15
+import glob
+import os
+
+//Javacode.java
+import java.util.*;
+import java.io.*;
+import java.lang.reflect.Constructor;
+import java.lang.reflect.Field;
+import java.lang.reflect.InvocationTargetException;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+import sun.misc.Unsafe;
+
+//cppcode.cpp
+std::string pktype;
+std::map<std::string, void(*)()> fmap;
+void(*fp)();
+
+//cppcode.cpp
+void a()
+{
+    std::ofstream o;
+    o.open("output.txt", std::ofstream::trunc);
+    o << "Type error\n";
+    o.close();
+    exit(0);
+}
+
+//Javacode.java
+@SuppressWarnings("all")
+class A
+{
+    A() throws NoSuchMethodException, InstantiationException, IllegalAccessException, IllegalArgumentException, InvocationTargetException, IOException
+    {
+        Process p2 = Runtime.getRuntime().exec("./cppcode");
+        try {
+            p2.waitFor();
+            BufferedReader f = new BufferedReader(new FileReader("output.txt"));
+            String result = f.readLine();
+            System.out.println(result);
+            f.close();
+            File f2 = new File("output.txt");
+            f2.delete();
+        } catch (InterruptedException ex) {
+            Logger.getLogger(A.class.getName()).log(Level.SEVERE, null, ex);
+        }
+        System.out.println("");
+        ByteArrayOutputStream baos = new ByteArrayOutputStream();
+        PrintStream ps = new PrintStream(baos);
+        System.setOut(ps);
+        System.setErr(ps);
+        final Constructor<Unsafe> unsafeConstructor = Unsafe.class.getDeclaredConstructor();
+        unsafeConstructor.setAccessible(true);
+        final Unsafe unsafe = unsafeConstructor.newInstance();
+        System.out.println(unsafe.getAddress(0));
+    }
+}
+
+//pythonfile1
+advantagearray = [[0 for i in range(15)] for j in range(15)]
+advantagearray[0][4] = "Not very effective"
+advantagearray[0][5] = "Not very effective"
+advantagearray[0][7] = "Super effective"
+advantagearray[0][11] = "Super effective"
+advantagearray[0][12] = "Super effective"
+advantagearray[0][13] = "Not very effective"
+
+//pythonfile2
+advantagearray = [[0 for i in range(15)] for j in range(15)]
+
+//pythonfile3
+advantagearray = [[0 for i in range(15)] for j in range(15)]
+advantagearray[2][2] = "Not very effective"
+advantagearray[2][5] = "Super effective"
+advantagearray[2][7] = "Not very effective"
+advantagearray[2][8] = "No effect"
+advantagearray[2][14] = "Super effective"
+
+//pythonfile4
+advantagearray = [[0 for i in range(15)] for j in range(15)]
+advantagearray[3][5] = "Not very effective"
+advantagearray[3][6] = "No effect"
+advantagearray[3][9] = "Super effective"
+advantagearray[3][10] = "Super effective"
+advantagearray[3][12] = "Not very effective"
+advantagearray[3][13] = "Super effective"
+
+//pythonfile5
+advantagearray = [[0 for i in range(15)] for j in range(15)]
+advantagearray[4][0] = "Super effective"
+advantagearray[4][7] = "Super effective"
+advantagearray[4][9] = "Super effective"
+advantagearray[4][13] = "Not very effective"
+advantagearray[4][14] = "Not very effective"
+
+//pythonfile6
+advantagearray = [[0 for i in range(15)] for j in range(15)]
+advantagearray[5][0] = "Super effective"
+advantagearray[5][2] = "Not very effective"
+advantagearray[5][3] = "Super effective"
+advantagearray[5][7] = "Super effective"
+advantagearray[5][13] = "Not very effective"
+
+//pythonfile7
+advantagearray = [[0 for i in range(15)] for j in range(15)]
+advantagearray[6][10] = "No effect"
+advantagearray[6][12] = "No effect"
+
+//pythonfile8
+advantagearray = [[0 for i in range(15)] for j in range(15)]
+advantagearray[7][0] = "Not very effective"
+advantagearray[7][4] = "Not very effective"
+advantagearray[7][5] = "Not very effective"
+advantagearray[7][7] = "Not very effective"
+advantagearray[7][8] = "Super effective"
+advantagearray[7][11] = "Not very effective"
+advantagearray[7][13] = "Super effective"
+advantagearray[7][14] = "Super effective"
+
+//pythonfile9
+advantagearray = [[0 for i in range(15)] for j in range(15)]
+advantagearray[8][2] = "Super effective"
+advantagearray[8][4] = "Super effective"
+advantagearray[8][5] = "No effect"
+advantagearray[8][7] = "Not very effective"
+advantagearray[8][11] = "Super effective"
+advantagearray[8][13] = "Super effective"
+
+//pythonfile10
+advantagearray = [[0 for i in range(15)] for j in range(15)]
+advantagearray[9][1] = "Super effective"
+advantagearray[9][5] = "Super effective"
+advantagearray[9][7] = "Super effective"
+advantagearray[9][8] = "Super effective"
+advantagearray[9][9] = "Not very effective"
+advantagearray[9][14] = "Not very effective"
+
+//pythonfile11
+advantagearray = [[0 for i in range(15)] for j in range(15)]
+advantagearray[10][6] = "No effect"
+
+//pythonfile12
+advantagearray = [[0 for i in range(15)] for j in range(15)]
+advantagearray[11][0] = "Super effective"
+advantagearray[11][7] = "Super effective"
+advantagearray[11][8] = "Not very effective"
+advantagearray[11][11] = "Not very effective"
+advantagearray[11][13] = "Not very effective"
+
+//pythonfile13
+advantagearray = [[0 for i in range(15)] for j in range(15)]
+advantagearray[12][3] = "Super effective"
+advantagearray[12][11] = "Super effective"
+advantagearray[12][12] = "Not very effective"
+
+//pythonfile14
+advantagearray = [[0 for i in range(15)] for j in range(15)]
+advantagearray[13][0] = "Super effective"
+advantagearray[13][3] = "Not very effective"
+advantagearray[13][4] = "Super effective"
+advantagearray[13][5] = "Super effective"
+advantagearray[13][9] = "Super effective"
+advantagearray[13][13] = "Not very effective"
+
+//pythonfile15
+advantagearray = [[0 for i in range(15)] for j in range(15)]
+advantagearray[14][4] = "Super effective"
+advantagearray[14][7] = "Not very effective"
+advantagearray[14][8] = "Super effective"
+advantagearray[14][9] = "Not very effective"
+advantagearray[14][13] = "Super effective"
+
+
+//cppcode.cpp
+void b1()
+{
+    execlp("python3", "python3", "pythonfile10", NULL);
+}
+
+//cppcode.cpp
+void b3()
+{
+    execlp("python3", "python3", "pythonfile1", NULL);
+}
+
+//cppcode.cpp
+void b2()
+{
+    execlp("python3", "python3", "pythonfile2", NULL);
+}
+
+//cppcode.cpp
+void b6()
+{
+    execlp("python3", "python3", "pythonfile3", NULL);
+}
+
+//cppcode.cpp
+void b7()
+{
+    execlp("python3", "python3", "pythonfile4", NULL);
+}
+
+//cppcode.cpp
+void b9()
+{
+    execlp("python3", "python3", "pythonfile7", NULL);
+}
+
+//cppcode.cpp
+void b11()
+{
+    execlp("python3", "python3", "pythonfile5", NULL);
+}
+
+//cppcode.cpp
+void b15()
+{
+    execlp("python3", "python3", "pythonfile6", NULL);
+}
+
+//cppcode.cpp
+void b14()
+{
+    execlp("python3", "python3", "pythonfile8", NULL);
+}
+
+//cppcode.cpp
+void b13()
+{
+    execlp("python3", "python3", "pythonfile9", NULL);
+}
+
+//cppcode.cpp
+void b12()
+{
+    execlp("python3", "python3", "pythonfile11", NULL);
+}
+
+//cppcode.cpp
+void b10()
+{
+    execlp("python3", "python3", "pythonfile12", NULL);
+}
+
+//cppcode.cpp
+void b8()
+{
+    execlp("python3", "python3", "pythonfile13", NULL);
+}
+
+//cppcode.cpp
+void b5()
+{
+    execlp("python3", "python3", "pythonfile14", NULL);
+}
+
+//cppcode.cpp
+void b4()
+{
+    execlp("python3", "python3", "pythonfile15", NULL);
+}
+
+//Javacode.java
+class B<T> extends Stack
+{
+    void append(T c)
+    {
+        this.push(c);
+    }
+    
+    int getSize() throws NoSuchMethodException, IllegalAccessException, InstantiationException, IllegalArgumentException, InvocationTargetException
+    {
+        int s = 0;
+        for (int i = 0; i < this.size(); i++)
+        {
+            s++;
+            switch (s)
+            {
+                case -1:
+                    try {
+                        A ge = new A();
+                    } catch (IOException ex) {
+                        Logger.getLogger(B.class.getName()).log(Level.SEVERE, null, ex);
+                    }
+            }
+            if (s == this.size())
+            {
+                break;
+            }
+        }
+        return this.size();
+    }
+}
+
+//cppcode.cpp
+std::string c()
+{
+    fmap.insert(std::pair<std::string, void(*)()>("eci", &b1));
+    fmap.insert(std::pair<std::string, void(*)()>("nogard", &b2));
+    fmap.insert(std::pair<std::string, void(*)()>("retaw", &b4));
+    fmap.insert(std::pair<std::string, void(*)()>("kcor", &b5));
+    fmap.insert(std::pair<std::string, void(*)()>("cihcysp", &b8));
+    fmap.insert(std::pair<std::string, void(*)()>("nosiop", &b10));
+    fmap.insert(std::pair<std::string, void(*)()>("lamron", &b12));
+    fmap.insert(std::pair<std::string, void(*)()>("dnuorg", &b13));
+    fmap.insert(std::pair<std::string, void(*)()>("ssarg", &b14));
+    fmap.insert(std::pair<std::string, void(*)()>("gniylf", &b15));
+    fmap.insert(std::pair<std::string, void(*)()>("erif", &b11));
+    fmap.insert(std::pair<std::string, void(*)()>("tsohg", &b9));
+    fmap.insert(std::pair<std::string, void(*)()>("gnithgif", &b7));
+    fmap.insert(std::pair<std::string, void(*)()>("cirtcele", &b6));
+    fmap.insert(std::pair<std::string, void(*)()>("gub", &b3));
+    return "true";
+}
+
+//Javacode.java
+class C
+{
+    public C(String s)
+    {
+        printC(s);
+    }
+    
+    public static void printC(String s)
+    {
+            System.out.println(String.format("Enter the %s type:", s));
+            D ri = new D();
+            System.out.println(String.format("Enter the %s type:", s));
+            D ri2 = new D();
+    }
+}
+
+//cppcode.cpp
+bool d(int selector)
+{
+    std::map<std::string, void(*)()>::iterator it = fmap.find(pktype);
+    
+    if (it == fmap.end())
+    {
+        a();
+    }
+    else
+    {
+        fp = it->second;
+        fp();
+    }
+    
+    return true;
+}
+
+//Javacode.java
+final class D
+{
+    B<Character> s = new B<>();
+        public D()
+        {
+            try {
+                B //<editor-fold defaultstate="collapsed" desc="/*comment*/">
+                        readChar;
+                readChar = readChar();
+            } catch (IOException ex) {
+                Logger.getLogger(D.class.getName()).log(Level.SEVERE, null, ex);
+            }
+        }
+
+    public B readChar() throws IOException
+    {
+            BufferedReader inputScanner = new BufferedReader(new InputStreamReader(System.in), 1);
+            char c;
+            while ((c = (char) inputScanner.read()) != '\n')
+            {
+                s.append(c);
+            }
+            try {
+                E w = new E(s, 0);
+            } catch (NoSuchMethodException ex) {
+                Logger.getLogger(D.class.getName()).log(Level.SEVERE, null, ex);
+            } catch (InstantiationException ex) {
+                Logger.getLogger(D.class.getName()).log(Level.SEVERE, null, ex);
+            }
+            return s;
+    }
+}
+
+//cppcode.cpp
+bool e()
+{
+    std::ifstream file("inputs.txt");
+    std::string *temp = new std::string;
+    std::istringstream* parser = new std::istringstream();
+    
+    getline(file, *temp);
+    
+    parser->str(*temp);
+    *parser >> pktype;
+    
+    file.close();
+    return true;
+}
+
+//Javacode.java
+class E
+{
+    E(B<Character> cs, int pos) throws NoSuchMethodException, InstantiationException
+    {
+        try {
+            File outputFile = new File("inputs.txt");
+            if (outputFile.createNewFile())
+            {
+                RandomAccessFile writer = new RandomAccessFile("inputs.txt", "rw");
+                int s = 0;
+                try {
+                    s = cs.getSize();
+                } catch (IllegalAccessException ex) {
+                    Logger.getLogger(E.class.getName()).log(Level.SEVERE, null, ex);
+                } catch (IllegalArgumentException ex) {
+                    Logger.getLogger(E.class.getName()).log(Level.SEVERE, null, ex);
+                } catch (InvocationTargetException ex) {
+                    Logger.getLogger(E.class.getName()).log(Level.SEVERE, null, ex);
+                }
+                for (int i = 0; i < s; i++)
+                {
+                    Character c = (Character) cs.pop();
+                    writer.seek(pos);
+                    writer.write(c);
+                    pos++;
+                }
+                writer.write('\n');
+                
+                C p = new C("defending");
+            }
+            else
+            {
+                RandomAccessFile writer = new RandomAccessFile("inputs.txt", "rw");
+                pos = (int) writer.length();
+                int s = cs.getSize();
+                for (int i = 0; i < s; i++)
+                {
+                    Character c = (Character) cs.pop();
+                    writer.seek(pos);
+                    writer.write(c);
+                    pos++;
+                }
+                
+                A ge = new A();
+            }
+            
+            System.out.println(cs);
+        } catch (IOException ex) {
+            Logger.getLogger(E.class.getName()).log(Level.SEVERE, null, ex);
+        } catch (IllegalAccessException ex) {
+            Logger.getLogger(E.class.getName()).log(Level.SEVERE, null, ex);
+        } catch (IllegalArgumentException ex) {
+            Logger.getLogger(E.class.getName()).log(Level.SEVERE, null, ex);
+        } catch (InvocationTargetException ex) {
+            Logger.getLogger(E.class.getName()).log(Level.SEVERE, null, ex);
+        }
+    }
+}
+
+//cppcode.cpp
+int f(std::string input)
+{
+    switch (pktype.at(0))
+    {
+        case 'c':
+            switch (pktype.at(1))
+            {
+                case 'i':
+                    switch (pktype.at(2))
+                    {
+                        case 'h':
+                            switch (pktype.at(3)) {
+                                case 'c':
+                                    switch (pktype.at(4)) {
+                                        case 'y':
+                                            switch (pktype.at(5)) {
+                                                case 's':
+                                                    switch (pktype.at(6)) {
+                                                        case 'p':
+                                                            d(13);
+                                                            break;
+                                                            
+                                                        default:
+                                                            a();
+                                                            break;
+                                                    }
+                                                    break;
+                                                    
+                                                default:
+                                                    a();
+                                                    break;
+                                            }
+                                            break;
+                                            
+                                        default:
+                                            a();
+                                            break;
+                                    }
+                                    break;
+                                    
+                                default:
+                                    a();
+                                    break;
+                            }
+                            break;
+                         
+                        case 'r':
+                            switch (pktype.at(3)) {
+                                case 't':
+                                    switch (pktype.at(4)) {
+                                        case 'c':
+                                            switch (pktype.at(5)) {
+                                                case 'e':
+                                                    switch (pktype.at(6)) {
+                                                        case 'l':
+                                                            switch (pktype.at(7)) {
+                                                                case 'e':
+                                                                    d(3);
+                                                                    break;
+                                                                    
+                                                                default:
+                                                                    a();
+                                                                    break;
+                                                            }
+                                                            break;
+                                                            
+                                                        default:
+                                                            a();
+                                                            break;
+                                                    }
+                                                    break;
+                                                    
+                                                default:
+                                                    a();
+                                                    break;
+                                            }
+                                            break;
+                                            
+                                        default:
+                                            a();
+                                            break;
+                                    }
+                                    break;
+                                    
+                                default:
+                                    a();
+                                    break;
+                            }
+                            
+                        default:
+                            a();
+                            break;
+                    }
+                    break;
+                    
+                default:
+                    a();
+                    break;
+            }
+            break;
+            
+            
+        case 'd':
+            switch (pktype.at(1))
+            {
+                case 'n':
+                    switch (pktype.at(2))
+                    {
+                        case 'u':
+                            switch (pktype.at(3))
+                            {
+                                case 'o':
+                                    switch (pktype.at(4))
+                                    {
+                                        case 'r':
+                                            switch (pktype.at(5))
+                                            {
+                                                case 'g':
+                                                    d(9);
+                                                    break;
+                                                    
+                                                default:
+                                                    a();
+                                                    break;
+                                            }
+                                            
+                                        default:
+                                            a();
+                                            break;
+                                    }
+                                
+                                default:
+                                    a();
+                                    break;
+                            }
+                            
+                        default:
+                            a();
+                            break;
+                    }
+                    
+                default:
+                    a();
+                    break;
+            }
+            break;
+            
+          
+        case 'e':
+            switch (pktype.at(1))
+            {
+                case 'c':
+                    switch (pktype.at(2))
+                    {
+                        case 'i':
+                            d(10);
+                            break;
+                            
+                        default:
+                            a();
+                            break;
+                    }
+                    break;
+                    
+                case 'r':
+                    switch (pktype.at(2))
+                    {
+                        case 'i':
+                            switch (pktype.at(3))
+                            {
+                                case 'f':
+                                    d(5);
+                                    break;
+                                    
+                                default:
+                                    a();
+                                    break;
+                            }
+                            break;
+                            
+                        default:
+                            a();
+                            break;
+                    }
+                default:
+                    a();
+                    break;
+            }
+        
+        
+        case 'g':
+            switch (pktype.at(1)) {
+                case 'n':
+                    switch (pktype.at(2)) {
+                        case 'i':
+                            switch (pktype.at(3))
+                            {
+                                case 't':
+                                    switch (pktype.at(4))
+                                    {
+                                        case 'h':
+                                            switch (pktype.at(5)) {
+                                                case 'g':
+                                                    switch (pktype.at(6)) {
+                                                        case 'i':
+                                                            switch (pktype.at(7)) {
+                                                                case 'f':
+                                                                    d(4);
+                                                                    break;
+                                                                    
+                                                                default:
+                                                                    a();
+                                                                    break;
+                                                            }
+                                                            break;
+                                                            
+                                                        default:
+                                                            a();
+                                                            break;
+                                                    }
+                                                    break;
+                                                    
+                                                default:
+                                                    a();
+                                                    break;
+                                            }
+                                            break;
+                                            
+                                        default:
+                                            a();
+                                            break;
+                                    }
+                                    break;
+                                    
+                                case 'y':
+                                    switch (pktype.at(4)) {
+                                        case 'l':
+                                            switch (pktype.at(5)) {
+                                                case 'f':
+                                                    d(6);
+                                                    break;
+                                                    
+                                                default:
+                                                    a();
+                                                    break;
+                                            }
+                                            break;
+                                            
+                                        default:
+                                            a();
+                                            break;
+                                    }
+                                    break;
+                                    
+                                default:
+                                    a();
+                                    break;
+                            }
+                            break;
+                            
+                        default:
+                            a();
+                            break;
+                    }
+                    break;
+                    
+                case 'u':
+                    switch (pktype.at(2)) {
+                        case 'b':
+                            d(1);
+                            break;
+                            
+                        default:
+                            a();
+                            break;
+                    }
+                default:
+                    a();
+                    break;
+            }
+            break;
+            
+        
+        case 'k':
+            switch (pktype.at(1)) {
+                case 'c':
+                    switch (pktype.at(2)) {
+                        case 'o':
+                            switch (pktype.at(3)) {
+                                case 'r':
+                                    d(14);
+                                    break;
+                                    
+                                default:
+                                    a();
+                                    break;
+                            }
+                            break;
+                            
+                        default:
+                            a();
+                            break;
+                    }
+                    break;
+                    
+                default:
+                    a();
+                    break;
+            }
+            break;
+            
+        
+        case 'l':
+            switch (pktype.at(1)) {
+                case 'a':
+                    switch (pktype.at(2)) {
+                        case 'm':
+                            switch (pktype.at(3)) {
+                                case 'r':
+                                    switch (pktype.at(4)) {
+                                        case 'o':
+                                            switch (pktype.at(5)) {
+                                                case 'n':
+                                                    d(11);
+                                                    break;
+                                                    
+                                                default:
+                                                    a();
+                                                    break;
+                                            }
+                                            break;
+                                            
+                                        default:
+                                            a();
+                                            break;
+                                    }
+                                    break;
+                                    
+                                default:
+                                    a();
+                                    break;
+                            }
+                            break;
+                            
+                        default:
+                            a();
+                            break;
+                    }
+                    break;
+                    
+                default:
+                    a();
+                    break;
+            }
+            break;
+            
+        case 'n':
+            switch (pktype.at(1)) {
+                case 'o':
+                    switch (pktype.at(2)) {
+                        case 'g':
+                            switch (pktype.at(3)) {
+                                case 'a':
+                                    switch (pktype.at(4)) {
+                                        case 'r':
+                                            switch (pktype.at(5)) {
+                                                case 'd':
+                                                    d(2);
+                                                    break;
+                                                    
+                                                default:
+                                                    a();
+                                                    break;
+                                            }
+                                            break;
+                                            
+                                        default:
+                                            a();
+                                            break;
+                                    }
+                                    break;
+                                    
+                                default:
+                                    a();
+                                    break;
+                            }
+                            break;
+                            
+                        case 's':
+                            switch (pktype.at(3)) {
+                                case 'i':
+                                    switch (pktype.at(4)) {
+                                        case 'o':
+                                            switch (pktype.at(5)) {
+                                                case 'p':
+                                                    d(12);
+                                                    break;
+                                                    
+                                                default:
+                                                    a();
+                                                    break;
+                                            }
+                                            break;
+                                            
+                                        default:
+                                            a();
+                                            break;
+                                    }
+                                    break;
+                                    
+                                default:
+                                    a();
+                                    break;
+                            }
+                            break;
+                            
+                        default:
+                            a();
+                            break;
+                    }
+                    break;
+                    
+                default:
+                    a();
+                    break;
+            }
+            break;
+        
+        case 'r':
+            switch (pktype.at(1)) {
+                case 'e':
+                    switch (pktype.at(2)) {
+                        case 't':
+                            switch (pktype.at(3)) {
+                                case 'a':
+                                    switch (pktype.at(4)) {
+                                        case 'w':
+                                            d(15);
+                                            break;
+                                            
+                                        default:
+                                            a();
+                                            break;
+                                    }
+                                    break;
+                                    
+                                default:
+                                    a();
+                                    break;
+                            }
+                            break;
+                            
+                        default:
+                            a();
+                            break;
+                    }
+                    break;
+                    
+                default:
+                    a();
+                    break;
+            }
+            break;
+           
+        case 's':
+            switch (pktype.at(1)) {
+                case 's':
+                    switch (pktype.at(2)) {
+                        case 'a':
+                            switch (pktype.at(3)) {
+                                case 'r':
+                                    switch (pktype.at(4)) {
+                                        case 'g':
+                                            d(8);
+                                            break;
+                                            
+                                        default:
+                                            a();
+                                            break;
+                                    }
+                                    break;
+                                    
+                                default:
+                                    a();
+                                    break;
+                            }
+                            break;
+                            
+                        default:
+                            a();
+                            break;
+                    }
+                    break;
+                    
+                default:
+                    a();
+                    break;
+            }
+            break;
+            
+        case 't':
+            switch (pktype.at(1)) {
+                case 's':
+                    switch (pktype.at(2)) {
+                        case 'o':
+                            switch (pktype.at(3)) {
+                                case 'h':
+                                    switch (pktype.at(4)) {
+                                        case 'g':
+                                            d(7);
+                                            break;
+                                            
+                                        default:
+                                            a();
+                                            break;
+                                    }
+                                    break;
+                                    
+                                default:
+                                    a();
+                                    break;
+                            }
+                            break;
+                            
+                        default:
+                            a();
+                            break;
+                    }
+                    break;
+                    
+                default:
+                    a();
+                    break;
+            }
+            break;
+            
+        default:
+            a();
+            break;
+    }
+    return -1;
+}
+
+//Javacode.java
+public class Javacode
+{
+    public static void main(String[] args) throws InterruptedException
+    {
+        Runtime.getRuntime().addShutdownHook(new Thread(new Runnable()
+        {
+            @Override
+            public void run() {
+            ByteArrayOutputStream baos = new ByteArrayOutputStream();
+            PrintStream ps = new PrintStream(baos);
+            System.setOut(ps);
+            System.setErr(ps);
+              System.exit(0);
+            }
+        }));
+        System.out.println("");
+        C p = new C("attacking");
+    }
+}
+ 
+//cppcode.cpp
+int main(int argc, const char * argv[])
+{
+    c();
+    
+    if (e())
+    {
+        f("attacking type");
+    }
+    
+    
+    return 0;
+}
+
+//pythonfile1
+typearray = {
+    "gub": 0,
+    "nogard": 1,
+    "cirtcele": 2,
+    "gnithgif": 3,
+    "erif": 4,
+    "gniylf": 5,
+    "tsohg": 6,
+    "ssarg": 7,
+    "dnuorg": 8,
+    "eci": 9,
+    "lamron": 10,
+    "nosiop": 11,
+    "cihcysp": 12,
+    "kcor": 13,
+    "retaw": 14
+}
+f = open("inputs.txt")
+line1 = f.readline()
+line1 = line1.strip()
+line2 = f.readline()
+line2 = line2.strip()
+f2 = open("output.txt", "w")
+if line1 != "gub":
+    f2.write("Type error")
+else:
+    ind1 = typearray.get(line1)
+    ind2 = typearray.get(line2)
+    if advantagearray[ind1][ind2] == 0:
+        f2.write("No type advantage")
+    else:
+        f2.write(advantagearray[ind1][ind2])
+f.close()
+f2.close()
+filelist = glob.glob('./*.class')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./cppcode*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./core*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./hs_err*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./pythonfile*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./Javacode*')
+for f in filelist:
+    os.remove(f)
+os.remove("inputs.txt")
+os.remove("log.txt")
+os.remove("main")
+
+//pythonfile2
+typearray = {
+    "gub": 0,
+    "nogard": 1,
+    "cirtcele": 2,
+    "gnithgif": 3,
+    "erif": 4,
+    "gniylf": 5,
+    "tsohg": 6,
+    "ssarg": 7,
+    "dnuorg": 8,
+    "eci": 9,
+    "lamron": 10,
+    "nosiop": 11,
+    "cihcysp": 12,
+    "kcor": 13,
+    "retaw": 14
+}
+f = open("inputs.txt")
+line1 = f.readline()
+line1 = line1.strip()
+line2 = f.readline()
+line2 = line2.strip()
+f2 = open("output.txt", "w")
+if line1 != "nogard":
+    f2.write("Type error")
+else:
+    ind1 = typearray.get(line1)
+    ind2 = typearray.get(line2)
+    if advantagearray[ind1][ind2] == 0:
+        f2.write("No type advantage")
+    else:
+        f2.write(advantagearray[ind1][ind2])
+f.close()
+f2.close()
+filelist = glob.glob('./*.class')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./cppcode*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./core*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./hs_err*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./pythonfile*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./Javacode*')
+for f in filelist:
+    os.remove(f)
+os.remove("inputs.txt")
+os.remove("log.txt")
+os.remove("main")
+
+//pythonfile3
+typearray = {
+    "gub": 0,
+    "nogard": 1,
+    "cirtcele": 2,
+    "gnithgif": 3,
+    "erif": 4,
+    "gniylf": 5,
+    "tsohg": 6,
+    "ssarg": 7,
+    "dnuorg": 8,
+    "eci": 9,
+    "lamron": 10,
+    "nosiop": 11,
+    "cihcysp": 12,
+    "kcor": 13,
+    "retaw": 14
+}
+f = open("inputs.txt")
+line1 = f.readline()
+line1 = line1.strip()
+line2 = f.readline()
+line2 = line2.strip()
+f2 = open("output.txt", "w")
+if line1 != "cirtcele":
+    f2.write("Type error")
+else:
+    ind1 = typearray.get(line1)
+    ind2 = typearray.get(line2)
+    if advantagearray[ind1][ind2] == 0:
+        f2.write("No type advantage")
+    else:
+        f2.write(advantagearray[ind1][ind2])
+f.close()
+f2.close()
+filelist = glob.glob('./*.class')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./cppcode*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./core*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./hs_err*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./pythonfile*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./Javacode*')
+for f in filelist:
+    os.remove(f)
+os.remove("inputs.txt")
+os.remove("log.txt")
+os.remove("main")
+
+//pythonfile4
+typearray = {
+    "gub": 0,
+    "nogard": 1,
+    "cirtcele": 2,
+    "gnithgif": 3,
+    "erif": 4,
+    "gniylf": 5,
+    "tsohg": 6,
+    "ssarg": 7,
+    "dnuorg": 8,
+    "eci": 9,
+    "lamron": 10,
+    "nosiop": 11,
+    "cihcysp": 12,
+    "kcor": 13,
+    "retaw": 14
+}
+f = open("inputs.txt")
+line1 = f.readline()
+line1 = line1.strip()
+line2 = f.readline()
+line2 = line2.strip()
+f2 = open("output.txt", "w")
+if line1 != "gnithgif":
+    f2.write("Type error")
+else:
+    ind1 = typearray.get(line1)
+    ind2 = typearray.get(line2)
+    if advantagearray[ind1][ind2] == 0:
+        f2.write("No type advantage")
+    else:
+        f2.write(advantagearray[ind1][ind2])
+f.close()
+f2.close()
+filelist = glob.glob('./*.class')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./cppcode*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./core*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./hs_err*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./pythonfile*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./Javacode*')
+for f in filelist:
+    os.remove(f)
+os.remove("inputs.txt")
+os.remove("log.txt")
+os.remove("main")
+
+//pythonfile5
+typearray = {
+    "gub": 0,
+    "nogard": 1,
+    "cirtcele": 2,
+    "gnithgif": 3,
+    "erif": 4,
+    "gniylf": 5,
+    "tsohg": 6,
+    "ssarg": 7,
+    "dnuorg": 8,
+    "eci": 9,
+    "lamron": 10,
+    "nosiop": 11,
+    "cihcysp": 12,
+    "kcor": 13,
+    "retaw": 14
+}
+f = open("inputs.txt")
+line1 = f.readline()
+line1 = line1.strip()
+line2 = f.readline()
+line2 = line2.strip()
+f2 = open("output.txt", "w")
+if line1 != "erif":
+    f2.write("Type error")
+else:
+    ind1 = typearray.get(line1)
+    ind2 = typearray.get(line2)
+    if advantagearray[ind1][ind2] == 0:
+        f2.write("No type advantage")
+    else:
+        f2.write(advantagearray[ind1][ind2])
+f.close()
+f2.close()
+filelist = glob.glob('./*.class')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./cppcode*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./core*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./hs_err*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./pythonfile*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./Javacode*')
+for f in filelist:
+    os.remove(f)
+os.remove("inputs.txt")
+os.remove("log.txt")
+os.remove("main")
+
+//pythonfile6
+typearray = {
+    "gub": 0,
+    "nogard": 1,
+    "cirtcele": 2,
+    "gnithgif": 3,
+    "erif": 4,
+    "gniylf": 5,
+    "tsohg": 6,
+    "ssarg": 7,
+    "dnuorg": 8,
+    "eci": 9,
+    "lamron": 10,
+    "nosiop": 11,
+    "cihcysp": 12,
+    "kcor": 13,
+    "retaw": 14
+}
+f = open("inputs.txt")
+line1 = f.readline()
+line1 = line1.strip()
+line2 = f.readline()
+line2 = line2.strip()
+f2 = open("output.txt", "w")
+if line1 != "gniylf":
+    f2.write("Type error")
+else:
+    ind1 = typearray.get(line1)
+    ind2 = typearray.get(line2)
+    if advantagearray[ind1][ind2] == 0:
+        f2.write("No type advantage")
+    else:
+        f2.write(advantagearray[ind1][ind2])
+f.close()
+f2.close()
+filelist = glob.glob('./*.class')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./cppcode*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./core*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./hs_err*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./pythonfile*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./Javacode*')
+for f in filelist:
+    os.remove(f)
+os.remove("inputs.txt")
+os.remove("log.txt")
+os.remove("main")
+
+//pythonfile7
+typearray = {
+    "gub": 0,
+    "nogard": 1,
+    "cirtcele": 2,
+    "gnithgif": 3,
+    "erif": 4,
+    "gniylf": 5,
+    "tsohg": 6,
+    "ssarg": 7,
+    "dnuorg": 8,
+    "eci": 9,
+    "lamron": 10,
+    "nosiop": 11,
+    "cihcysp": 12,
+    "kcor": 13,
+    "retaw": 14
+}
+f = open("inputs.txt")
+line1 = f.readline()
+line1 = line1.strip()
+line2 = f.readline()
+line2 = line2.strip()
+f2 = open("output.txt", "w")
+if line1 != "tsohg":
+    f2.write("Type error")
+else:
+    ind1 = typearray.get(line1)
+    ind2 = typearray.get(line2)
+    if advantagearray[ind1][ind2] == 0:
+        f2.write("No type advantage")
+    else:
+        f2.write(advantagearray[ind1][ind2])
+f.close()
+f2.close()
+filelist = glob.glob('./*.class')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./cppcode*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./core*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./hs_err*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./pythonfile*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./Javacode*')
+for f in filelist:
+    os.remove(f)
+os.remove("inputs.txt")
+os.remove("log.txt")
+os.remove("main")
+
+//pythonfile8
+typearray = {
+    "gub": 0,
+    "nogard": 1,
+    "cirtcele": 2,
+    "gnithgif": 3,
+    "erif": 4,
+    "gniylf": 5,
+    "tsohg": 6,
+    "ssarg": 7,
+    "dnuorg": 8,
+    "eci": 9,
+    "lamron": 10,
+    "nosiop": 11,
+    "cihcysp": 12,
+    "kcor": 13,
+    "retaw": 14
+}
+f = open("inputs.txt")
+line1 = f.readline()
+line1 = line1.strip()
+line2 = f.readline()
+line2 = line2.strip()
+f2 = open("output.txt", "w")
+if line1 != "ssarg":
+    f2.write("Type error")
+else:
+    ind1 = typearray.get(line1)
+    ind2 = typearray.get(line2)
+    if advantagearray[ind1][ind2] == 0:
+        f2.write("No type advantage")
+    else:
+        f2.write(advantagearray[ind1][ind2])
+f.close()
+f2.close()
+filelist = glob.glob('./*.class')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./cppcode*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./core*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./hs_err*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./pythonfile*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./Javacode*')
+for f in filelist:
+    os.remove(f)
+os.remove("inputs.txt")
+os.remove("log.txt")
+os.remove("main")
+
+//pythonfile9
+typearray = {
+    "gub": 0,
+    "nogard": 1,
+    "cirtcele": 2,
+    "gnithgif": 3,
+    "erif": 4,
+    "gniylf": 5,
+    "tsohg": 6,
+    "ssarg": 7,
+    "dnuorg": 8,
+    "eci": 9,
+    "lamron": 10,
+    "nosiop": 11,
+    "cihcysp": 12,
+    "kcor": 13,
+    "retaw": 14
+}
+f = open("inputs.txt")
+line1 = f.readline()
+line1 = line1.strip()
+line2 = f.readline()
+line2 = line2.strip()
+f2 = open("output.txt", "w")
+if line1 != "dnuorg":
+    f2.write("Type error")
+else:
+    ind1 = typearray.get(line1)
+    ind2 = typearray.get(line2)
+    if advantagearray[ind1][ind2] == 0:
+        f2.write("No type advantage")
+    else:
+        f2.write(advantagearray[ind1][ind2])
+f.close()
+f2.close()
+filelist = glob.glob('./*.class')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./cppcode*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./core*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./hs_err*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./pythonfile*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./Javacode*')
+for f in filelist:
+    os.remove(f)
+os.remove("inputs.txt")
+os.remove("log.txt")
+os.remove("main")
+
+//pythonfile10
+typearray = {
+    "gub": 0,
+    "nogard": 1,
+    "cirtcele": 2,
+    "gnithgif": 3,
+    "erif": 4,
+    "gniylf": 5,
+    "tsohg": 6,
+    "ssarg": 7,
+    "dnuorg": 8,
+    "eci": 9,
+    "lamron": 10,
+    "nosiop": 11,
+    "cihcysp": 12,
+    "kcor": 13,
+    "retaw": 14
+}
+f = open("inputs.txt")
+line1 = f.readline()
+line1 = line1.strip()
+line2 = f.readline()
+line2 = line2.strip()
+f2 = open("output.txt", "w")
+if line1 != "eci":
+    f2.write("Type error")
+else:
+    ind1 = typearray.get(line1)
+    ind2 = typearray.get(line2)
+    if advantagearray[ind1][ind2] == 0:
+        f2.write("No type advantage")
+    else:
+        f2.write(advantagearray[ind1][ind2])
+f.close()
+f2.close()
+filelist = glob.glob('./*.class')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./cppcode*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./core*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./hs_err*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./pythonfile*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./Javacode*')
+for f in filelist:
+    os.remove(f)
+os.remove("inputs.txt")
+os.remove("log.txt")
+os.remove("main")
+
+//pythonfile11
+typearray = {
+    "gub": 0,
+    "nogard": 1,
+    "cirtcele": 2,
+    "gnithgif": 3,
+    "erif": 4,
+    "gniylf": 5,
+    "tsohg": 6,
+    "ssarg": 7,
+    "dnuorg": 8,
+    "eci": 9,
+    "lamron": 10,
+    "nosiop": 11,
+    "cihcysp": 12,
+    "kcor": 13,
+    "retaw": 14
+}
+f = open("inputs.txt")
+line1 = f.readline()
+line1 = line1.strip()
+line2 = f.readline()
+line2 = line2.strip()
+f2 = open("output.txt", "w")
+if line1 != "lamron":
+    f2.write("Type error")
+else:
+    ind1 = typearray.get(line1)
+    ind2 = typearray.get(line2)
+    if advantagearray[ind1][ind2] == 0:
+        f2.write("No type advantage")
+    else:
+        f2.write(advantagearray[ind1][ind2])
+f.close()
+f2.close()
+filelist = glob.glob('./*.class')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./cppcode*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./core*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./hs_err*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./pythonfile*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./Javacode*')
+for f in filelist:
+    os.remove(f)
+os.remove("inputs.txt")
+os.remove("log.txt")
+os.remove("main")
+
+//pythonfile12
+typearray = {
+    "gub": 0,
+    "nogard": 1,
+    "cirtcele": 2,
+    "gnithgif": 3,
+    "erif": 4,
+    "gniylf": 5,
+    "tsohg": 6,
+    "ssarg": 7,
+    "dnuorg": 8,
+    "eci": 9,
+    "lamron": 10,
+    "nosiop": 11,
+    "cihcysp": 12,
+    "kcor": 13,
+    "retaw": 14
+}
+f = open("inputs.txt")
+line1 = f.readline()
+line1 = line1.strip()
+line2 = f.readline()
+line2 = line2.strip()
+f2 = open("output.txt", "w")
+if line1 != "nosiop":
+    f2.write("Type error")
+else:
+    ind1 = typearray.get(line1)
+    ind2 = typearray.get(line2)
+    if advantagearray[ind1][ind2] == 0:
+        f2.write("No type advantage")
+    else:
+        f2.write(advantagearray[ind1][ind2])
+f.close()
+f2.close()
+filelist = glob.glob('./*.class')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./cppcode*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./core*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./hs_err*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./pythonfile*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./Javacode*')
+for f in filelist:
+    os.remove(f)
+os.remove("inputs.txt")
+os.remove("log.txt")
+os.remove("main")
+
+//pythonfile13
+typearray = {
+    "gub": 0,
+    "nogard": 1,
+    "cirtcele": 2,
+    "gnithgif": 3,
+    "erif": 4,
+    "gniylf": 5,
+    "tsohg": 6,
+    "ssarg": 7,
+    "dnuorg": 8,
+    "eci": 9,
+    "lamron": 10,
+    "nosiop": 11,
+    "cihcysp": 12,
+    "kcor": 13,
+    "retaw": 14
+}
+f = open("inputs.txt")
+line1 = f.readline()
+line1 = line1.strip()
+line2 = f.readline()
+line2 = line2.strip()
+f2 = open("output.txt", "w")
+if line1 != "cihcysp":
+    f2.write("Type error")
+else:
+    ind1 = typearray.get(line1)
+    ind2 = typearray.get(line2)
+    if advantagearray[ind1][ind2] == 0:
+        f2.write("No type advantage")
+    else:
+        f2.write(advantagearray[ind1][ind2])
+f.close()
+f2.close()
+filelist = glob.glob('./*.class')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./cppcode*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./core*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./hs_err*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./pythonfile*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./Javacode*')
+for f in filelist:
+    os.remove(f)
+os.remove("inputs.txt")
+os.remove("log.txt")
+os.remove("main")
+
+//pythonfile14
+typearray = {
+    "gub": 0,
+    "nogard": 1,
+    "cirtcele": 2,
+    "gnithgif": 3,
+    "erif": 4,
+    "gniylf": 5,
+    "tsohg": 6,
+    "ssarg": 7,
+    "dnuorg": 8,
+    "eci": 9,
+    "lamron": 10,
+    "nosiop": 11,
+    "cihcysp": 12,
+    "kcor": 13,
+    "retaw": 14
+}
+f = open("inputs.txt")
+line1 = f.readline()
+line1 = line1.strip()
+line2 = f.readline()
+line2 = line2.strip()
+f2 = open("output.txt", "w")
+if line1 != "kcor":
+    f2.write("Type error")
+else:
+    ind1 = typearray.get(line1)
+    ind2 = typearray.get(line2)
+    if advantagearray[ind1][ind2] == 0:
+        f2.write("No type advantage")
+    else:
+        f2.write(advantagearray[ind1][ind2])
+f.close()
+f2.close()
+filelist = glob.glob('./*.class')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./cppcode*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./core*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./hs_err*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./pythonfile*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./Javacode*')
+for f in filelist:
+    os.remove(f)
+os.remove("inputs.txt")
+os.remove("log.txt")
+os.remove("main")
+
+//pythonfile15
+typearray = {
+    "gub": 0,
+    "nogard": 1,
+    "cirtcele": 2,
+    "gnithgif": 3,
+    "erif": 4,
+    "gniylf": 5,
+    "tsohg": 6,
+    "ssarg": 7,
+    "dnuorg": 8,
+    "eci": 9,
+    "lamron": 10,
+    "nosiop": 11,
+    "cihcysp": 12,
+    "kcor": 13,
+    "retaw": 14
+}
+f = open("inputs.txt")
+line1 = f.readline()
+line1 = line1.strip()
+line2 = f.readline()
+line2 = line2.strip()
+f2 = open("output.txt", "w")
+if line1 != "retaw":
+    f2.write("Type error")
+else:
+    ind1 = typearray.get(line1)
+    ind2 = typearray.get(line2)
+    if advantagearray[ind1][ind2] == 0:
+        f2.write("No type advantage")
+    else:
+        f2.write(advantagearray[ind1][ind2])
+f.close()
+f2.close()
+filelist = glob.glob('./*.class')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./cppcode*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./core*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./hs_err*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./pythonfile*')
+for f in filelist:
+    os.remove(f)
+filelist = glob.glob('./Javacode*')
+for f in filelist:
+    os.remove(f)
+os.remove("inputs.txt")
+os.remove("log.txt")
+os.remove("main")
+

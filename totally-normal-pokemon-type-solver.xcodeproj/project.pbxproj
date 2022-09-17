@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		88EB064128D661AF00BADD8D /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 88EB064028D661AF00BADD8D /* main.cpp */; };
+		88EB064A28D6659400BADD8D /* Makefile in Sources */ = {isa = PBXBuildFile; fileRef = 88EB064928D6659400BADD8D /* Makefile */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,9 @@
 /* Begin PBXFileReference section */
 		88EB063D28D661AF00BADD8D /* totally-normal-pokemon-type-solver */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "totally-normal-pokemon-type-solver"; sourceTree = BUILT_PRODUCTS_DIR; };
 		88EB064028D661AF00BADD8D /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		88EB064728D6622500BADD8D /* sourcecode */ = {isa = PBXFileReference; lastKnownFileType = text; path = sourcecode; sourceTree = "<group>"; };
+		88EB064828D6627000BADD8D /* readme */ = {isa = PBXFileReference; lastKnownFileType = text; path = readme; sourceTree = SOURCE_ROOT; };
+		88EB064928D6659400BADD8D /* Makefile */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +62,9 @@
 			isa = PBXGroup;
 			children = (
 				88EB064028D661AF00BADD8D /* main.cpp */,
+				88EB064828D6627000BADD8D /* readme */,
+				88EB064728D6622500BADD8D /* sourcecode */,
+				88EB064928D6659400BADD8D /* Makefile */,
 			);
 			path = "totally-normal-pokemon-type-solver";
 			sourceTree = "<group>";
@@ -119,6 +126,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				88EB064A28D6659400BADD8D /* Makefile in Sources */,
 				88EB064128D661AF00BADD8D /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
